@@ -142,10 +142,10 @@ nav, p, section, article {
   margin: 0 auto;
 }
 
-footer p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer nav {
