@@ -221,7 +221,7 @@ form {
     max-width: 600px;
     margin: 0 auto;
     padding: 1rem;
-    background-color:#8fcafd;
+    background-color:#baddfc;
 }
  
 fieldset {
@@ -229,6 +229,11 @@ fieldset {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+}
+
+legend {
+    padding: 0 8px; 
+    margin-bottom: 10px;
 }
 
 label {
