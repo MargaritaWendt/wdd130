@@ -227,7 +227,7 @@ form {
     max-width: 600px;
     margin: 50px auto;
     padding: 1rem;
-    background-color:#baddfc;
+    background-color:#cae2f8;
 }
  
 fieldset {
@@ -311,7 +311,7 @@ caption {
 
 thead,
 tfoot {
-    background-color: #baddfc;
+    background-color: #cae2f8;
 }
 
 th,
