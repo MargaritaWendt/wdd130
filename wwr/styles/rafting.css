@@ -223,6 +223,10 @@ figcaption {
     font-weight: bold;
 }
 
+form, label, input, textarea {
+  color: var(--primary-color);
+}
+
 form {
     max-width: 600px;
     margin: 50px auto;
@@ -266,7 +270,7 @@ textarea {
 }
 
 button[type="submit"] {
-    background-color: #0077b6;
+    background-color: var(--primary-color);
     color: white;
     padding: 0.75rem 1.5rem;
     margin: 10px;
@@ -276,10 +280,6 @@ button[type="submit"] {
     cursor: pointer;
     align-self: start;
     transition: background-color 0.3s ease;
-}
-
-button[type="submit"]:hover {
-    background-color: #005f8a;
 }
 
 .purpose{
