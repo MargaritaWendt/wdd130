@@ -312,6 +312,8 @@ caption {
 thead,
 tfoot {
     background-color: #cae2f8;
+    color: var(--primary-color);
+    
 }
 
 th,
